@@ -12,3 +12,4 @@ Create a repository on GitHub with the prefix ```junty-```. This makes easier fi
 
 ## Plugins
 * [toDir](http://github.com/the-junty/junty-todir) - Send globs to another directories.
+* [minify](https://github.com/gabrieljmj/junty-minify) - Minify CSS and JS files.
